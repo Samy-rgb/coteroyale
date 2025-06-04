@@ -11,14 +11,17 @@ To start a new project using this website as a starter, follow these directions:
 npx degit prismicio-community/cote-royale-course cote-royale
 cd cote-royale
 ```
-4. Create a new Next.js Prismic repository. When asked which "path" you'd like to take, choose "Connect your own web app."
-5. Go through the setup process until you get to the "Create a Next.js Project" screen. Click "I already have a project."
-6. Inside your `cote-royale/` directory, run the `npx` command that you're given. It will look something like this:
+
+2. Create a new Next.js Prismic repository. When asked which "path" you'd like to take, choose "Connect your own web app."
+
+3. Go through the setup process until you get to the "Create a Next.js Project" screen. Click "I already have a project."
+
+4. Inside your `cote-royale/` directory, run the `npx` command that you're given. It will look something like this:
 ```sh
 npx @slicemachine/init@latest --repository my-repo-name-here
 ```
 
-When you're ready to start your project, run the following command:
+5. When you're ready to start your project, run the following command:
 
 ```sh
 npm run dev
