@@ -4,19 +4,19 @@ This is the final code for the Côte Royale website YouTube course. Check throug
 
 ## 🚀 Quick Start
 
-To start a new project using this website as a starter, run the following commands in your terminal:
+To start a new project using this website as a starter, follow these directions:
 
+1. Clone this repository do your computer by running the following commands in your terminal:
 ```sh
 npx degit prismicio-community/cote-royale-course cote-royale
 cd cote-royale
-npx @slicemachine/init@latest
 ```
-
-The commands will do the following:
-
-1. Start a new Next.js project using this starter.
-2. Ask you to log in to Prismic or [create an account][prismic-sign-up].
-3. Create a new Prismic content repository and upload the content to Prismic.
+4. Create a new Next.js Prismic repository. When asked which "path" you'd like to take, choose "Connect your own web app."
+5. Go through the setup process until you get to the "Create a Next.js Project" screen. Click "I already have a project."
+6. Inside your `cote-royale/` directory, run the `npx` command that you're given. It will look something like this:
+```sh
+npx @slicemachine/init@latest --repository my-repo-name-here
+```
 
 When you're ready to start your project, run the following command:
 
