@@ -1,6 +1,6 @@
 # Animated Luxury Website Course - Côte Royale
 
-This is the final code for the Côte Royale website YouTube course. Check through it if you're debugging your own code. 
+This is the final code for the Côte Royale website Check through it if you're debugging your own code. 
 
 ## 🚀 Quick Start
 
